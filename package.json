@@ -1,6 +1,6 @@
 {
-  "name": "@test/simple-template",
-  "version": "1.0.15",
+  "name": "@womhla6stea/suscipit-repellat-consectetur-occaecati",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -10,8 +10,21 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/utilcode/simple-template.git"
+    "url": "https://github.com/womhla6stea/suscipit-repellat-consectetur-occaecati.git"
   },
   "dependencies": {
+    "@womhla6stea/accusantium-a-dicta-deleniti": "^1.0.0",
+    "@womhla6stea/architecto-dolores-molestiae-perspiciatis": "^1.0.0",
+    "@womhla6stea/dolore-aliquam-ratione-nemo": "^1.0.0",
+    "@womhla6stea/eaque-odio-deserunt-ipsum": "^1.0.0",
+    "@womhla6stea/laborum-assumenda-magni-quo": "^1.0.0",
+    "@womhla6stea/modi-illum-cupiditate-quasi": "^1.0.0",
+    "@womhla6stea/natus-expedita-nostrum-distinctio": "^1.0.0",
+    "@womhla6stea/quia-eius-unde-cum": "^1.0.0",
+    "analsorhost-simple-bs": "^1.0.0",
+    "corcojs-qrcode": "^1.0.0",
+    "dable-effect": "^1.0.2",
+    "firan-logging": "^1.0.0",
+    "simple-prompts-web3": "^1.0.1"
   }
 }
